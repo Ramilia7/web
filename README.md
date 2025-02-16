@@ -1,11 +1,12 @@
-# Тестирование интернет-магазина
+# Я провела тестирование интернет-магазина на сайте https://demoshopping.ru/, подготовила тестовую документацию и применила техники тест-дизайна
 
-[Тест-план](https://docs.google.com/spreadsheets/d/1VKG421AV8UHuyp54vBk2YQissoC2Z80kXAqjzNYePbs/edit?usp=sharing)
+[Тест-план](https://docs.google.com/spreadsheets/d/1VKG421AV8UHuyp54vBk2YQissoC2Z80kXAqjzNYePbs/edit?usp=sharing) тест-план для интернет-магазина описывает проверку функций регистрации, поиска товаров, работы корзины и процессов платежей, обеспечивая удобство и безопасность покупок. В плане указаны виды тестирования, используемые инструменты, основные этапы работы и потенциальные риски
 
-[Чек-лист для тестирования регистрации, логина, каталога, корзины и оплаты](https://docs.google.com/spreadsheets/d/1mM8IZCOEC00CxpNaHuMz-x6ToCv00Me00RhDO3XyfKE/edit?usp=sharing)
+[Применение техник тест-дизайна](https://docs.google.com/spreadsheets/d/1DzyvIDKQ-9BEAuA458Wb_EzrqsG6Y6yPafNShgD2pBQ/edit?usp=sharing) метод эквивалентного разбиения для тестирования валидности полей логина и пароля; попарное тестирование для оптимизации количества тестовых проверок функций фильтрации и сортировки в инструменте 'Teremok'; таблица принятия решений для тестирования модуля оплаты PayPal
 
-[Тест-кейсы для проверки модулей “Управление корзиной" и "Управление заказами”](https://github.com/Ramilia7/web/blob/main/Case_Volozhanina_2.pdf)
+[Чек-лист](https://docs.google.com/spreadsheets/d/1mM8IZCOEC00CxpNaHuMz-x6ToCv00Me00RhDO3XyfKE/edit?usp=sharing) для тестирования регистрации, логина, каталога, корзины и оплаты
 
-[Отчеты о дефекте из YouTrack](https://github.com/Ramilia7/web/blob/main/%D0%9E%D1%82%D1%87%D0%B5%D1%82%D1%8B%20%D0%BE%20%D0%B4%D0%B5%D1%84%D0%B5%D0%BA%D1%82%D0%B0%D1%85_Order_Card.xlsx)
+[Тест-кейсы](https://github.com/Ramilia7/web/blob/main/Case_Volozhanina_2.pdf) для проверки модулей “Управление корзиной" и "Управление заказами”
 
-[Тестовый прогон из QASE](https://github.com/Ramilia7/web/blob/main/G8-test_run_Volozhanina.pdf)
+[Отчеты о дефектах из YouTrack](https://github.com/Ramilia7/web/blob/main/%D0%9E%D1%82%D1%87%D0%B5%D1%82%D1%8B%20%D0%BE%20%D0%B4%D0%B5%D1%84%D0%B5%D0%BA%D1%82%D0%B0%D1%85_Order_Card.xlsx) по результатам выполненного тестирования содержат подробные описания обнаруженных ошибок, включая шаги для воспроизведения, уровень важности и влияние на систему, предназначены для последующего анализа и устранения дефектов разработчиками
+
